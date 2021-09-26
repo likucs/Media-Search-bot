@@ -13,7 +13,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Media-Search-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/likucs/Media-Search-bot)
 ### Hard Way
 
 ```bash
@@ -80,9 +80,9 @@ logger - Get log file
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/subinps_bot)
+Contact Me On [Telegram](https://t.me/csbots)
 
-[Update Channel](https://t.me/subin_works)
+[Update Channel](https://t.me/csbots)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
